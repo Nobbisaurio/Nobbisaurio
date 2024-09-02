@@ -1,5 +1,18 @@
-## Hi there 👋
+* 👋 Hi, my name is David Castro @Nobbisaurio. 
+* 💻 I'm a Software Development Technologist.  
+* 💕 I like video games and technology.
+* 🇪🇨  I live in Ecuador.
 
+## The technologies I work with are:
+  ### Front-end technologies
+    * Angular
+    * React
+    * Typescrpt
+    * Next
+  ### Back-end technologies
+    * Nest
+  ### BDD
+    * PostgreSQL
 <!--
 **Nobbisaurio/Nobbisaurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
