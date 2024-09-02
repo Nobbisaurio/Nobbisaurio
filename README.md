@@ -2,8 +2,9 @@
 * 💻 I'm a Software Development Technologist.  
 * 💕 I like video games and technology.
 * 🇪🇨  I live in Ecuador.
-  
-<!--
+
+<details>
+<sumary>More details about me</sumary>
 ## The technologies I work with are:
   ### Front-end technologies
     * Angular
@@ -14,6 +15,8 @@
     * Nest
   ### BDD
     * PostgreSQL
+</details>
+<!--
 **Nobbisaurio/Nobbisaurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
