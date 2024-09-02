@@ -4,7 +4,8 @@
 * 🇪🇨  I live in Ecuador.
 
 <details>
-<sumary>More details about me</sumary>
+<summary>More details about me</summary>
+  
 ## The technologies I work with are:
   ### Front-end technologies
     * Angular
